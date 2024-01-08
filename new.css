@@ -61,3 +61,41 @@ line-height: normal;
     font-size: 48px ;
     color: #070211;
 }
+
+/* 3rd part */
+
+.party{
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),
+    url('./resources/Vectorrr.png');
+    background-repeat:no-repeat;
+    width: 1300px;
+height:600px;
+flex-shrink: 0;
+padding-left:20px;
+margin:70px;
+}
+.welcome{
+    color:#FFF;
+    font-size:60px;
+    letter-spacing:7px;
+}
+.paragraph{
+    color:rgba(255, 255, 255, 0.80);
+    line-height: 60%;
+
+}
+    
+.inside-picture{
+padding-top: 200px;
+padding-left:30px;
+    }
+    .join{
+        background:none;
+        color:#FFF;
+        margin-left:20px;
+        margin-top:20px;
+    }
+
+
+
+
