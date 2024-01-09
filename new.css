@@ -103,5 +103,14 @@ margin-top:50px;
 transform:rotate(5deg);
 }
 
+/* 4th part */
 
+.place-to-go{
+    width: 1320px;
+height: 482px;
+flex-shrink: 0;
 
+background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+text-align:center;
+margin-left:60px;
+}
