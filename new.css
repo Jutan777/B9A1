@@ -44,6 +44,7 @@ box-shadow:10px 0px 10px 10px linear-gradient(180deg, #070211 100%, rgba(7, 2, 1
 
 .categories{
 text-align:center;
+
 }
 .off{
     color: #F00;
@@ -73,6 +74,7 @@ height:600px;
 flex-shrink: 0;
 padding-left:20px;
 margin:70px;
+display:flex;
 }
 .welcome{
     color:#FFF;
@@ -95,7 +97,11 @@ padding-left:30px;
         margin-left:20px;
         margin-top:20px;
     }
-
+.year{
+margin-left:130px;
+margin-top:50px;
+transform:rotate(5deg);
+}
 
 
 
