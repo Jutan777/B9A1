@@ -216,3 +216,15 @@ line-height: 32px; /* 160% */
     font-size: 15px;
     font-style: normal; 
 }
+/* 6th part */
+.sixth-part{
+    width:auto;
+    height:600px;
+    margin:60px;
+    /* justify-content: center; */
+    text-align:center;
+}
+.red-image{
+    /* margin-bottom: 100px; */
+    margin-top:220px;
+}
