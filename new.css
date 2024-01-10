@@ -216,15 +216,41 @@ line-height: 32px; /* 160% */
     font-size: 15px;
     font-style: normal; 
 }
-/* 6th part */
+
+            /* 6th part */
+
 .sixth-part{
     width:auto;
     height:600px;
     margin:60px;
-    /* justify-content: center; */
     text-align:center;
 }
 .red-image{
-    /* margin-bottom: 100px; */
-    margin-top:220px;
+   
+    margin-top:0px;
+    
+}
+.discount-pic{
+    display:flex;
+    justify-content:space-between;
+}
+.box{
+    margin-bottom:0px;
+}
+.lady{
+background-image: url('./resources/Rectangle\ 1.png');
+
+}
+.lady-bag{
+    margin-left:0px;
+}
+.six-pic{
+   
+   margin-top:30px;
+   margin-left:60px;
+
+}
+.all-pic-heading{
+    margin-top:300px;
+    margin-left:60px;
 }
