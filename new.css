@@ -254,3 +254,81 @@ background-image: url('./resources/Rectangle\ 1.png');
     margin-top:300px;
     margin-left:60px;
 }
+
+ /* footeri */
+
+ .footer-sub{
+    text-align:center;
+    margin-top:140px;
+    margin-left:60px;
+    padding-top:100px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1300px;
+height: 600px;
+flex-shrink: 0;
+ }
+ .subscribe{
+    color: #070211;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+ }
+ 
+ .email{
+    width: 448px;
+height: 72px;
+flex-shrink: 0;
+border-radius:50px 0px 0px 50px;
+background: #FFF;
+border:none;
+ }
+ .subs{
+    width: 150px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+border:none;
+ }
+ .link{
+   text-decoration: none; 
+   color: #FFF;
+text-align: center;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+ }
+ .last-part{
+    width: 1300px;
+height: 500px;
+flex-shrink: 0;
+margin-top:100px;
+margin-left:60px;
+background: #070211;
+ }
+
+ /* last part */
+
+ .number{
+    color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+ }
+ .address-one{
+    color: #FFF;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+ }
+.footer-address{
+    display:flex;
+    justify-content: space-between;
+}
+.picture-m{
+justify-content: center;
+}
